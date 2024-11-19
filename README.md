@@ -60,7 +60,7 @@ The Android Attendance System is designed for educational institutions to automa
 
 2. Navigation:
    - Admins and teachers can add, view, and modify student information and attendance records through a straightforward interface.
-   - Teachers can mark attendance class-wise and edit attendance records as neede
+   - Teachers can mark attendance class-wise and edit attendance records as needed
 ## Limitations
 
 - This application is intended for demonstration and educational purposes. It may need additional features and security enhancements for production use.
